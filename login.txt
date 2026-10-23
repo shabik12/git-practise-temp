@@ -4,3 +4,4 @@ Password field
 Password reset feature
 Main branch 
 practising rebase
+Email field
