@@ -1,7 +1,6 @@
-# Ignore environment files
+# Environment variables and secrets
 .env
-
-# Ignore generated build files
-target/
-
 secret.txt
+
+# Java build output
+target/

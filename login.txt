@@ -2,7 +2,9 @@ Login Page
 Username field
 Password field
 Password reset feature
-Main branch 
+Main branch update
+Notification preference feature
+Main branch
 practising rebase
 Email field
 phone field
