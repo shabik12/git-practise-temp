@@ -6,3 +6,4 @@ Main branch
 practising rebase
 Email field
 phone field
+Email notification feature
