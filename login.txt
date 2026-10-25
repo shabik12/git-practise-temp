@@ -3,3 +3,4 @@ Username field
 Password field
 Password reset feature
 Main branch update
+Notification preference feature

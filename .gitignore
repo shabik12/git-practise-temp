@@ -1,0 +1,6 @@
+# Environment variables and secrets
+.env
+secret.txt
+
+# Java build output
+target/
